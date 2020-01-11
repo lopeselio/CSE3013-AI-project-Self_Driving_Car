@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:\\Users\\Elio\\Anaconda3\\envs\\py27\\python.exe",
+  "python.linting.enabled": false,
+  "python.formatting.provider": "black"
+}
