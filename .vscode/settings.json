@@ -1,5 +1,8 @@
 {
-  "python.pythonPath": "C:\\Users\\Elio\\Anaconda3\\python.exe",
-  "python.linting.pylintEnabled": true,
-  "python.linting.enabled": true
+  "python.pythonPath": "C:\\Users\\Elio\\Anaconda3\\envs\\py27\\python.exe",
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": false,
+  "files.exclude": {
+    "\"files.exclude\" : {     \"Makefile\": true,     \"*.html\": true,     \"build/*\": true }": true
+  }
 }
