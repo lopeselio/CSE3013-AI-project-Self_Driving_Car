@@ -4,5 +4,6 @@
   "python.linting.enabled": false,
   "files.exclude": {
     "\"files.exclude\" : {     \"Makefile\": true,     \"*.html\": true,     \"build/*\": true }": true
-  }
+  },
+  "git.ignoreLimitWarning": true
 }
