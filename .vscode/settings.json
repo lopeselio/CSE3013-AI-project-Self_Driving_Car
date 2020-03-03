@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "C:\\Users\\Elio\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+  "python.pythonPath": "C:\\Users\\Elio\\Anaconda3\\envs\\py27\\python.exe",
   "python.linting.pylintEnabled": false,
   "python.linting.enabled": false,
   "files.exclude": {
